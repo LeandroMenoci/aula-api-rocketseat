@@ -1,4 +1,4 @@
-# NodeJS Simple API
+# NodeJS Simple API - Aula Rocketseat
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
