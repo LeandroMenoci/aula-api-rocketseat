@@ -32,13 +32,3 @@ Esse projeto foi construído para servir de apoio no estudo de consumo de APIs R
 2. Rode o comando `npm install` para instalar as dependências
 
 3. E pra iniciar a aplicação, rode o comando `npm start` 
-
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Jakeliny Gracielly
